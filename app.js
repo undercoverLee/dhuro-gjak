@@ -29,6 +29,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 //     console.log(err);
 // });
 
+// test
+
 global.admin = {
     username: "admin",
     password: "admin",
