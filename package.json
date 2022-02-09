@@ -9,9 +9,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.8.10",
     "mysql2": "^2.1.0",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.15"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
